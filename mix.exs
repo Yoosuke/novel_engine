@@ -25,7 +25,8 @@ defmodule NovelEngine.MixProject do
     [
       {:phoenix_live_view, "~> 0.20.0"},
       {:phoenix_html, "~> 3.3"},
-      {:jason, "~> 1.4"}
+      {:jason, "~> 1.4"},
+      {:earmark, "~> 1.4"}
     ]
   end
 
